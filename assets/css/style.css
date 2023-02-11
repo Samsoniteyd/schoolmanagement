@@ -223,12 +223,23 @@ section p{
 .ab .success img{
     height: 30vh;
     width: 26vw;
-    align-items: center;
-    
-    
+    align-items: center; 
 
 }
 
+/* contact us */
+/* contact us */
+#contact .name{
+    
+    background-image: url(/assets/img/Los-Amigos-High-School.jpg);
+    background-size: cover;
+    filter: grayscale(80%);
+    opacity: 80%;
+    border: 1px solid red;
+    height: 90vh;
+    
+    
+}
 
 
 
